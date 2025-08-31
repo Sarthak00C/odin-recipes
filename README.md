@@ -1,1 +1,3 @@
-Hello Odin!
+# odin-recipes
+
+My first project on github
